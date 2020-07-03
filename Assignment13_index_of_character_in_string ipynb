@@ -1,0 +1,54 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Welcome To Colaboratory",
+      "provenance": [],
+      "collapsed_sections": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Manju1608/python-assignment_13/blob/master/Assignment13_index_of_character_in_string%20ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "a7IRL7SjJAtq",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 149
+        },
+        "outputId": "c27df0d3-5cc1-4a7a-a9b7-a16d4171990b"
+      },
+      "source": [
+        " str1 = \"gitamuniversity\"for index, char in enumerate(str1):    print(\"Current character\", char, \"position at\", index )"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "ignored",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-1-5db59fde2906>\"\u001b[0;36m, line \u001b[0;32m1\u001b[0m\n\u001b[0;31m    str1 = \"gitamuniversity\"for index, char in enumerate(str1):    print(\"Current character\", char, \"position at\", index )\u001b[0m\n\u001b[0m                              ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
